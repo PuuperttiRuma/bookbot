@@ -1,2 +1,3 @@
 # bookbot
-Tool for analyzing letter variations in books by Boot.dev
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
